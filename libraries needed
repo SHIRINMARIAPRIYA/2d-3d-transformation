@@ -1,0 +1,5 @@
+ pip install torch torchvision matplotlib
+
+pip install torch torchvision torchaudio open3d 
+
+pip install opencv-python numpy matplotlib 
